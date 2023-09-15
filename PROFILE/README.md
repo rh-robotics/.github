@@ -10,11 +10,11 @@ We compete in the First Tech Challenge (FTC) Robotics Competition where we build
 The code that is written for this challenge is stored in this organization. See below for each Repo and what season they correspond too
 
 - Powerplay Season (2022-2023 Season)
-    - 19922-PPRC
-    - 16748-PPRC
+    - [19922-PPRC](https://github.com/rh-robotics/19922-PPRC)
+    - [16748-PPRC](https://github.com/rh-robotics/16748-PPRC)
 - Centerstage Season (2023-2024 Season)
-    - 19922-CSRC
-    - 16748-CSRC
+    - [19922-CSRC](https://github.com/rh-robotics/19922-CSRC)
+    - [16748-CSRC](https://github.com/rh-robotics/16748-CSRC)
 
 ## Contact Information
 Emails: - robotics@rowlandhall.org (All Teams)
