@@ -12,6 +12,9 @@ The code that is written for this challenge is stored in this organization. See 
 - Powerplay Season (2022-2023 Season)
     - 19922-PPRC
     - 16748-PPRC
+- Centerstage Season (2023-2024 Season)
+    - 19922-CSRC
+    - 16748-CSRC
 
 ## Contact Information
 Emails: - robotics@rowlandhall.org (All Teams)
