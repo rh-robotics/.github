@@ -7,7 +7,10 @@ This organization hosts the code for both 19922 Iron Lions and 16748 Monochromat
 ## Who are we?
 We are the Rowland Hall Robotics Teams: 19922 Iron Lions & 16748 Monochromats.
 We compete in the First Tech Challenge (FTC) Robotics Competition where we build robots from the ground up to compete in a new challenge every year.
-The code that is written for this challenge is stored in this organization. See below for each Repo and what season they correspond too
+The code that is written for this challenge is stored in this organization. 
+
+## Repository Map
+See below for each repo and what season they correspond to
 
 - Centerstage Season (2023-2024 Season)
     - [19922-CSRC](https://github.com/rh-robotics/19922-CSRC)
