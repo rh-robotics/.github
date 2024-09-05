@@ -15,7 +15,7 @@ See below for each repo and what season they correspond to
 - Centerstage Season (2023-2024 Season)
     - [19922-CSRC](https://github.com/rh-robotics/19922-CSRC)
     - [16748-CSRC](https://github.com/rh-robotics/16748-CSRC)
-  - Wasatch Mountain Invitational (WMI), (2023)
+- Wasatch Mountain Invitational (WMI), (2023)
     - [19922-WMI-PPRC](https://github.com/rh-robotics/19922-WMI-PPRC)
 - Powerplay Season (2022-2023 Season)
     - [19922-PPRC](https://github.com/rh-robotics/19922-PPRC)
