@@ -22,8 +22,8 @@ See below for each repo and what season they correspond to
     - [16748-PPRC](https://github.com/rh-robotics/16748-PPRC)
 
 ## Contact Information
-Emails: - robotics@rowlandhall.org (All Teams)
-        - ironlions19922@gmail.com (Iron Lions Specific)
+Emails: - ironlions19922@rowlandhall.org (Iron Lions Specific)
+        - monochromats16748@rowlandhall.org (Monochromats Specific)
 
 Instagrams: - @rh_iron_lions (Iron Lions)
             - @rh_robotics_16748 (Monochromats)
